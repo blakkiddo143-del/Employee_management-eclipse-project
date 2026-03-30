@@ -169,7 +169,7 @@ This project helps understand:
 
 ## 👨‍💻 Author
 
-**Mellacheruvu Mohana S M Kapil Charan**
+**S ANBU SELVAN**
 B.Tech Computer Science Engineering
 Expected Graduation: 2027
 
